@@ -4,6 +4,7 @@ Python tool for reading and manipulating Nordic and several other seismological 
 More information about the Nordic format can be found [here](http://seis.geus.net/software/seisan/node234.html).
 
 Dependencies:
+
     * NumPy (https://numpy.org/doc/stable/index.html)
 
 Last update: 20. June 2024.
